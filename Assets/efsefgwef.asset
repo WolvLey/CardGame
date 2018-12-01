@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b410a77f8609c50418ea50a550d33211, type: 3}
+  m_Name: efsefgwef
+  m_EditorClassIdentifier: 
+  name: regegfewrew
+  artwork: {fileID: 21300000, guid: d1185c4d17433734eabf653ed41f7baa, type: 3}
+  skill_1: ssssssssssss111
+  skill_2: sssss111
+  health: 99
+  armor: 707
+  attackDamage: 888
